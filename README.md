@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Biniyam Belay,<br><br>🛠️ I specialize in:<br>- Frontend: React.js, Next.js, Tailwind CSS, TypeScript<br>- Backend: Node.js, Express, Supabase, Prisma, PostgreSQL, MongoDB<br>- Mobile: React Native (Expo)<br>- Dev Tools: Git, Vercel, Render, Postman<br><br>🚀 Currently working on:<br>- SuriAddis – A local fashion e-commerce platform  <br>- Gizecal – An AI-powered productivity task manager   <br><br>🌱 Learning more about:<br>- AI integration in apps<br>- DevOps (CI/CD & Docker)<br>- Scaling SaaS platforms
+Hi there! I'm Biniyam Belay,<br><br>🛠️ I specialize in:<br>- Frontend: React.js, Next.js, Tailwind CSS, TypeScript<br>- Backend: Node.js, Express, Supabase, Prisma, PostgreSQL, MongoDB<br>- Mobile: React Native (Expo)<br>- Dev Tools: Git, Vercel, Render, Postman<br><br>🚀 Currently working on:<br>- Dela – A local fashion e-commerce platform  <br>- Gizecal – An AI-powered productivity task manager   <br><br>🌱 Learning more about:<br>- AI integration in apps<br>- DevOps (CI/CD & Docker)<br>- Scaling SaaS platforms
 
 
 ## 🌐 Socials:
